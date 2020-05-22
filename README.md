@@ -1,5 +1,13 @@
 # Titanic
-This is a tutorial in an IPython Notebook for the Kaggle competition, 
-Titanic Machine Learning From Disaster. The goal of this repository is to provide an example of a
-competitive analysis for those interested in getting into the field of data analytics or using python 
-for Kaggle's Data Science competitions .
+
+This is a kaggle competition. The goal of this Jupyter notebook is to create a model that predicts which passengers survived the Titanic shipwreck.
+
+# The Challenge
+
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
